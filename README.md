@@ -1,5 +1,5 @@
 # 12-days-of-christmas ~~- an awesome project~~
-Write Code to print the 12 days of Christmas song!
+~~-Write Code to~~ print the 12 days of Christmas song!
 
 ```
 On the first day of Christmas my true love gave to me
